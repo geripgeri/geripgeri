@@ -1,10 +1,10 @@
 # Gergely Peidl
 
-DevOps Engineer | Automation Enthusiast | Mentor | DIY Electronics | Bouldering
+Lead Cloud Infrastructure / DevOps Engineer | Automation Enthusiast |  DIY Electronics Tinkerer
 
 ### Summary
 
-Experienced DevOps engineer and tech lead with 10+ years of industry expertise. Passionate about automation and driving innovation.
+Experienced Cloud Infrastructure / DevOps engineer and tech lead with 10+ years of industry expertise. Passionate about automation and driving innovation.
 
 Dedicated to sharing knowledge through mentorship and empowering others. Strong focus on optimizing processes and enhancing efficiency. Skilled in continuous integration and delivery practices.
 
