@@ -26,7 +26,7 @@ I work best in a player-coach role. I set technical direction, review technical 
 - I lead AWS cost optimization, rightsizing, and reserved-savings analysis
 - I am a key contact for a handful of vendors, handling license, extension, and renewal agreements
 
-From October 2013 to July 2025, I worked at Sonrisa, where I progressed from Software Engineer to DevOps Engineer to Senior DevOps Engineer and Technical Lead. I left on Senior II, level 8 on a 9-level ladder where 1 is entry level, 7 is Senior, and 9 is reserved as an honour. I mentored multiple engineers at Sonrisa. One of them progressed from entry-level Junior Engineer to Senior Engineer and then to Tech Lead under my mentorship before I left in July 2025.
+From October 2013 to July 2025, I worked at Sonrisa, where I progressed from Software Engineer to DevOps Engineer to Senior DevOps Engineer and Technical Lead. I left on Senior II, level 8 on a 9-level ladder where 1 is entry level, 7 is Senior, and 9 is reserved as an honor. I mentored multiple engineers at Sonrisa. One of them progressed from entry-level Junior Engineer to Senior Engineer and then to Tech Lead under my mentorship before I left in July 2025.
 
 At Protex AI, I served as Lead DevOps Engineer on the Platform Team from July to August 2025. I then served as Engineering Manager and Lead DevOps Engineer for the Cloud Infrastructure Team from September 2025 to May 2026. When the Infrastructure Team was formed in May 2026, I decided to step back from people management and returned to a hands-on Lead DevOps Engineer role.
 
