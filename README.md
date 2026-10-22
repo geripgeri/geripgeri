@@ -6,7 +6,7 @@ I build Cloud Infrastructure that stays boring, and I automate everything that d
 
 13+ years in software and infrastructure engineering since October 2013, including 10+ years in DevOps and Cloud Infrastructure since March 2016.
 
-## ~/now
+## `$ man geri`
 
 - I lead Cloud Infrastructure at [Protex AI](https://www.protex.ai). I set technical direction, review important pull requests, and write infrastructure code every week
 - I sit at level 4 of 5 there, the Staff-equivalent band. Protex has no Staff or Principal title, so this is the scope other companies file under Staff
@@ -16,7 +16,7 @@ I build Cloud Infrastructure that stays boring, and I automate everything that d
 - Recognition: Star Employee Award, Protex AI Outstanding Contributor Awards, September 2026
 - 70+ technical and hiring manager interviews conducted
 
-## ~/leadership
+## `$ git log --author=geri`
 
 I work best in a player-coach role. I set technical direction, review technical decisions, unblock engineers, and mentor people while staying close to the systems.
 
@@ -30,19 +30,19 @@ From October 2013 to July 2025, I worked at Sonrisa, where I progressed from Sof
 
 At Protex AI, I served as Lead DevOps Engineer on the Platform Team from July to August 2025. I then served as Engineering Manager and Lead DevOps Engineer for the Cloud Infrastructure Team from September 2025 to May 2026. When the Infrastructure Team was formed in May 2026, I decided to step back from people management and returned to a hands-on Lead DevOps Engineer role.
 
-## ~/stack: things I can debug at 3 AM
+## `$ pacman -Qe`
 
 `AWS (ECS, VPC, IAM, RDS)` · `OpenTofu + Terragrunt` · `Ansible` · `Jenkins -> GitHub Actions -> GitLab CI` · `Datadog` · `Snyk / Aikido` · `Python / Bash` · `Linux`
 
-## ~/learning in the open
+## `$ kubectl --context=planet-express get nodes`
 
 Kubernetes and its observability stack, properly, bottom-up: [planet-express](https://github.com/geripgeri/planet-express) runs Talos, ArgoCD, Cilium, Kyverno, and kube-prometheus-stack, operated like production and documented with an ADR for every non-obvious choice. Not my day-job platform yet; that's exactly what the lab is for.
 
-## ~/off-the-clock
+## `$ hass-cli state list`
 
 Bouldering · DIY electronics and an ESPHome fleet · mechanical keyboards (QMK) · convincing people that Terragrunt was the right call
 
-## ~/contact
+## `$ dig +short MX peidl.net`
 
 - Web: [peidl.net](https://peidl.net), hand-built, no trackers (psst: try typing `:h` there)
 - Email: `contact@peidl.net`
